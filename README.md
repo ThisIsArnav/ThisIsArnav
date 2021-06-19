@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning App dev and Web dev
 - 📫 How to reach me
 LinkedIn: https://www.linkedin.com/in/thisisarnav/
+
 Twitter: https://twitter.com/UserArnavSingh
+
 YouTube: https://www.youtube.com/channel/UCCxKLrv31g8Z3z1kKtsKkpw
-Email: mailto:protanushsingh@gmail.com
+
+Email: protanushsingh@gmail.com
 
 <!---
 ThisIsArnav/ThisIsArnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
