@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming, App dev, Web dev, Game dev and Creating Videos
 - 🌱 I’m currently learning App dev and Web dev
 - 📫 How to reach me
+
 LinkedIn: https://www.linkedin.com/in/thisisarnav/
 
 Twitter: https://twitter.com/UserArnavSingh
