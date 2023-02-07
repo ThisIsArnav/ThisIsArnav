@@ -4,9 +4,13 @@
 - 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/thisisarnav/
+
 Twitter: https://twitter.com/UserArnavSingh
+
 YouTube: https://www.youtube.com/channel/UCCxKLrv31g8Z3z1kKtsKkpw
+
 Website: https://this-is-arnav.web.app
+
 Email: protanushsingh@gmail.com
 
 
