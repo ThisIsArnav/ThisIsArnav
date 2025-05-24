@@ -1,4 +1,5 @@
 Arnav Singh
+
 Building AlgoTapp ⚡an algorithmic trading platform | AI & ML for Stock Market and Quantitative Finance
 
 LinkedIn: https://www.linkedin.com/in/thisisarnav/
