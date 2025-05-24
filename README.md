@@ -1,16 +1,7 @@
-- 👋 Hi, I’m Arnav Singh
-- 👀 I’m interested in Programming, App dev, Web dev, Game dev and Creating Videos
-- 🌱 I’m currently learning App dev and Web dev
-- 📫 How to reach me
+Arnav Singh
+Building AlgoTapp ⚡an algorithmic trading platform | AI & ML for Stock Market and Quantitative Finance
 
 LinkedIn: https://www.linkedin.com/in/thisisarnav/
-
-Twitter: https://twitter.com/UserArnavSingh
-
-YouTube: https://www.youtube.com/channel/UCCxKLrv31g8Z3z1kKtsKkpw
-
-Website: https://this-is-arnav.web.app
-
 Email: protanushsingh@gmail.com
 
 
